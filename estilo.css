@@ -1,0 +1,24 @@
+body{
+  background-color: white;  
+}
+table{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    font-size:large;
+}
+table, td {
+    border: 1px solid rgb(16, 71, 16);
+    border-spacing: 0px;
+}
+#tabela{
+    background-color: darkgreen;
+    color: white;
+   
+}
+#descricao{
+    background-color: darkgreen;
+    color:white;
+    
+}
